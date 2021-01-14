@@ -1,3 +1,3 @@
 This is README.md. 
 
-- Dr. Readme.
+- Dr. Readme
